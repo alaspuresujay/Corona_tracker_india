@@ -2,7 +2,9 @@
 
 To run this script follow the below installation –
 
-$ pip install bs4
-$ pip install tabulate
-$ pip install matplotlib
-$ pip install numpy 
+> pip install bs4
+> pip install tabulate
+> pip install matplotlib
+> pip install numpy 
+
+Follow me on Instagram [Sujay Alaspure](www.instagram.com/alaspuresujay)
